@@ -1,0 +1,8 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+interface Oops_Interface {
+   void checkPerfectSquare(int var1);
+
+   void displayMessage();
+
+   void displayMessage1();
+}
